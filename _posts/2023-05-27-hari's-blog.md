@@ -1,5 +1,5 @@
 ---
-title: "Hari's blog"
+title: "Monster"
 date: 2023-05-27
 ---
-this is my blog
+this is hari talking about 'monster' series
